@@ -28,4 +28,4 @@
             uses: JamesIves/github-pages-deploy-action@v4
             with:
               branch: gh-pages
-              folder: build # The folder containing your built React app
+              folder: dist # The folder containing your built React app
